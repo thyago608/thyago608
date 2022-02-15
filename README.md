@@ -4,7 +4,6 @@
 
 Sou estudante de Ciência da Computação em busca de se tornar um Desenvolvedor Frontend.
 
-Estou trabalhando na **Scheffer Logística**
  <br/>Estou buscando colaborar com projetos em Front-end usando React, e NextJS
  <br/>Posso te ajudar com CSS Grid Layout e Flexbox
  <br/>Minha stack: ReactJS, React Native & Typescript
