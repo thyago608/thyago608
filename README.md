@@ -4,7 +4,7 @@ Desenvolvedor Frontend, fascinado pelo aprendizado e sempre em busca do próximo
 
 <br/>Minhas experiências:
 
-<br/>HTML5, Javascript e CSS3, Sass
+HTML5, Javascript e CSS3, Sass
 <br/>Metodologias ágeis como Scrum e Kanban. 
 <br/>React (com o uso de hooks avançados ), Context API, Redux e Redux Saga  
 <br/>CSS Module, Styled Components e Emotion
