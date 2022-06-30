@@ -1,13 +1,17 @@
-# Thyago Ribeiro
-
 ## Olá pessoal 👋
 
-Sou estudante de Ciência da Computação em busca de se tornar um Desenvolvedor Frontend.
- <br/>Estou buscando colaborar com projetos em Front-end usando React, e NextJS
- <br/>Posso te ajudar com CSS Grid Layout e Flexbox
- <br/>Minha stack: ReactJS, React Native & Typescript
- <br/>💬  Sobre mim: Curto tecnologias, e seriados no Netflix
- <br/></br>Entre em contato comigo:
+Desenvolvedor Frontend, fascinado pelo aprendizado e sempre em busca do próximo nível. 
+
+<br/>Minhas experiências:
+
+<br/>HTML5, Javascript e CSS3, Sass
+<br/>Metodologias ágeis como Scrum e Kanban. 
+<br/>React (com o uso de hooks avançados ), Context API, Redux e Redux Saga  
+<br/>CSS Module, Styled Components e Emotion
+<br/>Consumo de API Rest e GraphQL
+<br/>Sistema de versionamento de código com git e familiaridade com plataformas como Github e Bitbucket 
+
+Minha Stack: React - NextJS - React Native - Javascript - Typescript
 </br></br>😉 [Linkedin](https://www.linkedin.com/in/thyago-ribeiro-879113206/) 
  
 📧 [Gmail](thyagoribeiro608@gmail.com)
