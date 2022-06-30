@@ -2,7 +2,7 @@
 
 Desenvolvedor Frontend, fascinado pelo aprendizado e sempre em busca do próximo nível. 
 
-<br/>Minhas experiências:
+Minhas experiências:
 
 HTML5, Javascript e CSS3, Sass
 <br/>Metodologias ágeis como Scrum e Kanban. 
