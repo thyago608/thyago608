@@ -1,6 +1,7 @@
-Estudo a 5 anos Frontend. Tive contato profissional por 7 meses e foi uma experiência fantástica. Pude absorver e vivênciar muita coisa em muito pouco tempo. Estou em busca de novos desafios !
+Sou um Desenvolvedor Frontend, em constante aprendizado e atualizações da minha área de atuação.
 
-Sou um Desenvolvedor Frontend, fascinado pelo aprendizado e sempre em busca do próximo nível.
+Tive contato profissional por 7 meses e foi uma experiência fantástica. Pude absorver e vivênciar muita coisa em muito pouco tempo. 
+Estou em busca de novos desafios !
 
 Minhas experiências:
 
