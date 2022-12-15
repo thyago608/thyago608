@@ -1,7 +1,5 @@
 Sou um Desenvolvedor Frontend, em constante aprendizado e atualizações da minha área de atuação.
 
-Tive contato profissional por 7 meses e foi uma experiência fantástica. Pude absorver e vivênciar muita coisa em muito pouco tempo. 
-Estou em busca de novos desafios !
 
 Minhas experiências:
 
